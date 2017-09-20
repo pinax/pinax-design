@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="190px" viewBox="0 0 170 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>badge-blank</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="85 15 154.282032 55 154.282032 135 85 175 15.7179677 135 15.7179677 55"></polygon>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="badge-blank">
+            <g id="Polygon-Copy-21">
+                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#979797" stroke-width="15" d="M85,6.33974596 L161.782032,50.669873 L161.782032,139.330127 L85,183.660254 L8.2179677,139.330127 L8.2179677,50.669873 L85,6.33974596 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
