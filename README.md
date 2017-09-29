@@ -1,92 +1,92 @@
 # Pinax Design
 
 This repo houses all the design artifacts for Pinax, starting with the creation
-of individual project badges.
+of individual project patches.
 
-## Badges
+## Patches
 
-Each badge is a hexagon with a thick border and a representative icon.
+Each patch is a hexagon with a thick border and a representative icon.
 
-### Blank Badge
+### Blank Patch
 
-![blank badge](./badges/badge-blank.svg)
+![blank patche](./patches/patch-blank.svg)
 
 ### django-mailer
 
-![django-mailer](./badges/django-mailer.svg)
+![django-mailer](./patches/django-mailer.svg)
 
 ### django-user-accounts
 
-![django-user-accounts](./badges/django-user-accounts.svg)
+![django-user-accounts](./patches/django-user-accounts.svg)
 
 ### pinax-announcements
 
-![pinax-announcements](./badges/pinax-announcements.svg)
+![pinax-announcements](./patches/pinax-announcements.svg)
 
-### pinax-badges
+### pinax-patches
 
-![pinax-badges](./badges/pinax-badges.svg)
+![pinax-patches](./patches/pinax-patches.svg)
 
 ### pinax-blog
 
-![pinax-blog](./badges/pinax-blog.svg)
+![pinax-blog](./patches/pinax-blog.svg)
 
 ### pinax-calendars
 
-![pinax-calendars](./badges/pinax-calendars.svg)
+![pinax-calendars](./patches/pinax-calendars.svg)
 
 ### pinax-comments
 
-![pinax-comments](./badges/pinax-comments.svg)
+![pinax-comments](./patches/pinax-comments.svg)
 
 ### pinax-documents
 
-![pinax-documents](./badges/pinax-documents.svg)
+![pinax-documents](./patches/pinax-documents.svg)
 
 ### pinax-forums
 
-![pinax-forums](./badges/pinax-forums.svg)
+![pinax-forums](./patches/pinax-forums.svg)
 
 ### pinax-images
 
-![pinax-images](./badges/pinax-images.svg)
+![pinax-images](./patches/pinax-images.svg)
 
 ### pinax-likes
 
-![pinax-likes](./badges/pinax-likes.svg)
+![pinax-likes](./patches/pinax-likes.svg)
 
 ### pinax-messages
 
-![pinax-messages](./badges/pinax-messages.svg)
+![pinax-messages](./patches/pinax-messages.svg)
 
 ### pinax-news
 
-![pinax-news](./badges/pinax-news.svg)
+![pinax-news](./patches/pinax-news.svg)
 
 ### pinax-notifications
 
-![pinax-notifications](./badges/pinax-notifications.svg)
+![pinax-notifications](./patches/pinax-notifications.svg)
 
 ### pinax-phone-confirmation
 
-![pinax-phone-confirmation](./badges/pinax-phone-confirmation.svg)
+![pinax-phone-confirmation](./patches/pinax-phone-confirmation.svg)
 
 ### pinax-points
 
-![pinax-points](./badges/pinax-points.svg)
+![pinax-points](./patches/pinax-points.svg)
 
 ### pinax-ratings
 
-![pinax-ratings](./badges/pinax-ratings.svg)
+![pinax-ratings](./patches/pinax-ratings.svg)
 
 ### pinax-referrals
 
-![pinax-referrals](./badges/pinax-referrals.svg)
+![pinax-referrals](./patches/pinax-referrals.svg)
 
 ### pinax-stripe
 
-![pinax-stripe](./badges/pinax-stripe.svg)
+![pinax-stripe](./patches/pinax-stripe.svg)
 
 ### pinax-teams
 
-![pinax-teams](./badges/pinax-teams.svg)
+![pinax-teams](./patches/pinax-teams.svg)
