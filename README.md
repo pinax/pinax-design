@@ -9,7 +9,7 @@ Each patch is a hexagon with a thick border and a representative icon.
 
 ### Blank Patch
 
-![blank patche](./patches/patch-blank.svg)
+![blank patch](./patches/blank-patch.svg)
 
 ### django-mailer
 
