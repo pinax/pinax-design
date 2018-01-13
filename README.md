@@ -35,6 +35,10 @@ Each patch is a hexagon with a thick border and a representative icon.
 
 ![pinax-calendars](./patches/pinax-calendars.svg)
 
+### pinax-cohorts
+
+![pinax-cohorts](./patches/pinax-cohorts.svg)
+
 ### pinax-comments
 
 ![pinax-comments](./patches/pinax-comments.svg)
@@ -43,6 +47,14 @@ Each patch is a hexagon with a thick border and a representative icon.
 
 ![pinax-documents](./patches/pinax-documents.svg)
 
+### pinax-eventlog
+
+![pinax-eventlog](./patches/pinax-eventlog.svg)
+
+### pinax-events
+
+![pinax-events](./patches/pinax-events.svg)
+
 ### pinax-forums
 
 ![pinax-forums](./patches/pinax-forums.svg)
@@ -50,6 +62,10 @@ Each patch is a hexagon with a thick border and a representative icon.
 ### pinax-images
 
 ![pinax-images](./patches/pinax-images.svg)
+
+### pinax-invitations
+
+![pinax-invitations](./patches/pinax-invitations.svg)
 
 ### pinax-likes
 
@@ -83,6 +99,10 @@ Each patch is a hexagon with a thick border and a representative icon.
 
 ![pinax-referrals](./patches/pinax-referrals.svg)
 
+### pinax-submissions
+
+![pinax-submissions](./patches/pinax-submissions.svg)
+
 ### pinax-stripe
 
 ![pinax-stripe](./patches/pinax-stripe.svg)
@@ -90,3 +110,19 @@ Each patch is a hexagon with a thick border and a representative icon.
 ### pinax-teams
 
 ![pinax-teams](./patches/pinax-teams.svg)
+
+### pinax-testimonials
+
+![pinax-testimonials](./patches/pinax-testimonials.svg)
+
+### pinax-types
+
+![pinax-types](./patches/pinax-types.svg)
+
+### pinax-waitinglist
+
+![pinax-waitinglist](./patches/pinax-waitinglist.svg)
+
+### pinax-webanalytics
+
+![pinax-webanalytics](./patches/pinax-webanalytics.svg)
