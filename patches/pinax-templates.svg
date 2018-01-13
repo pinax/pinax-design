@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="190px" viewBox="0 0 170 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>pinax-templates</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="70 0 139.282032 40 139.282032 120 70 160 0.717967697 120 0.717967697 40"></polygon>
+    </defs>
+    <g id="Hexagons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1095.000000, -875.000000)">
+        <g id="pinax-templates" transform="translate(1110.000000, 890.000000)">
+            <g id="Polygon-Copy-24" stroke-linejoin="round">
+                <use fill="#FFF8CD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#3A5683" stroke-width="15" d="M70,-8.66025404 L146.782032,35.669873 L146.782032,124.330127 L70,168.660254 L-6.7820323,124.330127 L-6.7820323,35.669873 L70,-8.66025404 Z"></path>
+            </g>
+            <path d="M105.785907,41 C108.10734,41 110.080561,41.8125009 111.705564,43.4375 C113.330567,45.0624991 114.14307,47.0357152 114.14307,49.3571429 L114.14307,110.642857 C114.14307,112.964285 113.330567,114.937501 111.705564,116.5625 C110.080561,118.187499 108.10734,119 105.785907,119 L33.3571628,119 C31.0357296,119 29.0625088,118.187499 27.4375058,116.5625 C25.8125028,114.937501 25,112.964285 25,110.642857 L25,49.3571429 C25,47.0357152 25.8125028,45.0624991 27.4375058,43.4375 C29.0625088,41.8125009 31.0357296,41 33.3571628,41 L105.785907,41 Z M64,107.857143 L64,63.2857143 L36.1428571,63.2857143 L36.1428571,107.857143 L64,107.857143 Z M103,107.857143 L103,63.2857143 L75.1428571,63.2857143 L75.1428571,107.857143 L103,107.857143 Z" id="pinax-referrals-copy-11" fill="#3A5683"></path>
+        </g>
+    </g>
+</svg>

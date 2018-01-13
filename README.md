@@ -111,6 +111,10 @@ Each patch is a hexagon with a thick border and a representative icon.
 
 ![pinax-teams](./patches/pinax-teams.svg)
 
+### pinax-templates
+
+![pinax-templates](./patches/pinax-templates.svg)
+
 ### pinax-testimonials
 
 ![pinax-testimonials](./patches/pinax-testimonials.svg)
