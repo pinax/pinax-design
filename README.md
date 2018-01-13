@@ -23,9 +23,9 @@ Each patch is a hexagon with a thick border and a representative icon.
 
 ![pinax-announcements](./patches/pinax-announcements.svg)
 
-### pinax-patches
+### pinax-badges
 
-![pinax-patches](./patches/pinax-patches.svg)
+![pinax-badges](./patches/pinax-badges.svg)
 
 ### pinax-blog
 
