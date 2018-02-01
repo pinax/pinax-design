@@ -71,6 +71,12 @@ Each patch is a hexagon with a thick border and a representative icon.
 
 ![pinax-likes](./patches/pinax-likes.svg)
 
+
+### pinax-lms-activities
+
+![pinax-lms-activities](./patches/pinax-lms-activities.svg)
+
+
 ### pinax-messages
 
 ![pinax-messages](./patches/pinax-messages.svg)
